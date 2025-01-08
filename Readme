@@ -1,0 +1,105 @@
+Ev Adoption in Delhi 
+
+Summary: The report presents an analysis of the growth of electric vehicles (EVs) in Delhi from 2005 to 2034, examining the trends in EV registrations, the total number of EVs on the road, and the overall vehicle registration in Delhi. In addition, insights into the forecasted EV adoption by various vehicle categories, including two-wheelers, three-wheelers, and four-wheelers, have been incorporated. The insights derived from this data are crucial for understanding the future of transportation, the adoption of sustainable energy solutions, and the impact of electric vehicles on the city’s infrastructure.
+1. Introduction
+Background: The global automotive industry is increasingly shifting toward electric vehicles as a sustainable transportation option. Delhi, being one of the largest cities in India, plays a significant role in this transition.
+Objective: This report analyzes the trend in EV adoption in Delhi over the years, evaluates the proportion of EVs to the total vehicles on the road, forecasts future growth patterns, and examines the forecasted distribution of EVs across different vehicle categories.
+2. Data Overview
+The dataset spans from 2005 to 2034, showing the number of EV registrations per year, the total number of EVs on the road, and the total vehicle registrations in Delhi..
+
+3. Analysis of Trends
+A. Early Years (2005-2014): Slow Adoption
+EV Registrations: In the initial years, EV adoption was slow, with only a handful of EVs being registered annually. By 2014, there were just 3,144 EVs on the road.
+Ratio of Total to EVs: In this period, the Ratio of Total to EVs remained high, reflecting the low share of EVs in the total vehicle fleet. In 2005, the ratio was over 117,000, indicating a very low EV penetration.
+B. Growth Surge (2015-2020): Increased EV Registrations
+EV Registrations: From 2015 onwards, a noticeable surge in EV registrations was observed, particularly in 2016, where 21,686 EVs were registered, and this growth continued through 2020, with a significant spike in 2020 (12,377 registrations).
+Ratio of Total to EVs: During this period, the ratio of total vehicles to EVs started decreasing, dropping to 79 in 2020, signifying a more substantial increase in EV registrations compared to the overall vehicle growth.
+C. Exponential Growth (2021-2024): EVs Become Mainstream
+EV Registrations: The years 2021 to 2024 show exponential growth, with EV registrations increasing from 25,807 in 2021 to 85,380 in 2024.
+Ratio of Total to EVs: The ratio continues to decrease significantly, with the ratio standing at 30 in 2024, showing that EVs are becoming a more substantial part of the vehicle fleet.
+
+
+D. Future Projections (2025-2034): Rapid Adoption
+EV Registrations: Projections for 2025 onwards show a continued surge in EV registrations, with figures reaching 1,20,264 in 2025 and an estimated 16,50,443 by 2034.
+Ratio of Total to EVs: The ratio of total vehicles to EVs continues to decrease, reaching 3 by 2034, which reflects a strong shift towards EV adoption.
+
+4. EV Growth Analysis (2020 to 2034)
+CAGR from 2020 to 2028:
+Compound Annual Growth Rate (CAGR) from 2020 to 2028: 34.97%
+This indicates a rapid acceleration in EV adoption, with a large yearly growth rate.
+
+
+Growth Ratio from 2020 to 2028:
+Total EVs on Road in 2020: 1,02,986
+Total EVs on Road in 2028: 11,34,413
+The Growth Ratio for the period from 2020 to 2028 is approximately 11.02.
+This means that the total number of EVs on the road will grow by more than 11 times from 2020 to 2028.
+CAGR from 2028 to 2034:
+Compound Annual Growth Rate (CAGR) from 2028 to 2034: 6.45%
+This represents a slower but steady growth in EV adoption compared to the previous period.
+Growth Ratio from 2028 to 2034:
+Total EVs on Road in 2028: 11,34,413
+Total EVs on Road in 2034: 16,50,443
+The Growth Ratio for the period from 2028 to 2034 is approximately 1.45.
+Key Insights:
+Explosive Growth (2020-2028): From 2020 to 2028, the growth in EVs is expected to be extremely rapid, with an 11-fold increase in the number of EVs on the road. This aligns with the strong CAGR of 34.97%, showing a major shift towards electric mobility during this period.
+Steady Growth (2028-2034): After 2028, the growth rate will slow down significantly, with a projected growth of 1.45 times from 2028 to 2034. The CAGR drops to 6.45%, reflecting a more mature EV market where the rate of adoption stabilizes but still continues to grow steadily.
+
+5. Forecasted EV Registrations by Vehicle Category
+The following insights are derived from the forecasted data for the years 2020-2034, segmented by vehicle category and weighted by the typical size and environmental impact of each category.
+
+A. Two-Wheelers (2WN)
+Forecast: Significant growth is expected in the two-wheeler category, with registrations increasing from 1,164 in 2021 to an estimated 989,361 by 2034. This category dominates EV adoption due to the affordability and popularity of electric scooters and bikes.
+B. Three-Wheelers (3WT)
+Forecast: The three-wheeler category (primarily e-rickshaws) is expected to grow substantially, from 10,328 registrations in 2021 to over 1.27 million in 2034, driven by urban mobility needs and demand for affordable transport solutions.
+C. Four-Wheeled Vehicles (LMV, LPV, HPV)
+Forecast: The four-wheeled vehicle categories, including light motor vehicles (LMV), light passenger vehicles (LPV show consistent growth. LMVs, in particular, are projected to see the highest growth, with registrations increasing from 443 in 2020 to 296,187 by 2034.
+The four-wheeler electric car segment will see a rise in adoption due to growing environmental awareness, policy support, and advancements in vehicle technology.
+D. Heavy Goods Vehicles (LGV) and 4WIC
+Forecast: The adoption of electric heavy goods vehicles (LGV) and electric 4-wheel industrial vehicles (4WIC) is expected to remain slower compared to lighter categories. By 2034, it is projected that electric LGVs will number 18,918 and 4WICs will number 188.
+E. Passenger E-Buses(HPV)
+Electric buses (HPV) in Delhi are projected to grow from 1,121 in 2023 to 32,502 by 2034, reflecting a steady increase. The Delhi government’s Electric Vehicle Policy 2020 supports this transition, with plans to deploy 8,000 electric buses by 2025 and aiming for 12,000 by 2030 .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Graph : Ev Registration from 2005-24 and projection till 2034 per year category-wise
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Graph : Impact of each Vehicle Category on Grid 
+
+Note : Consider 2 wheeler as the base to project the impact of other category relative to there Battery capacity 
+
